@@ -1,0 +1,58 @@
+.container
+{
+    background-image: url('C:\Users\Madar\login-page\src\assets\itachi.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.logindetails
+{
+   background-color: rgba(0,0,0,0.8);
+   height:500px;
+   width:350px;
+   margin-top: 70px;
+}
+#sign
+{
+    color:white;
+    margin-left: 60px;
+    padding-top: 50px;
+    
+}
+#emailbox
+{
+    box-shadow: none;
+    display: block;
+    width: 200px;
+    height: 35px;
+    margin-left:60px;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+#passwordbox
+{
+    display: block;
+    margin-top: 10px;
+    width: 200px;
+    height: 35px;
+    margin-left:60px;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+#SButton
+{
+    color:white;
+    width: 215px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left:60px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #ff0000;
+
+}
